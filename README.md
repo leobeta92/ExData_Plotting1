@@ -1,3 +1,11 @@
+## What is new with the latest commits
+
+I have added the code for making four plots looking at household consumption data from February 1, 2007 to Februrary 2, 2007. 
+I have uploaded the text file to download if necessary.
+I have made the assumption that many who have done the assignment used the data.table package.
+If not-- please install the package .. install.packages('data.table')
+Thank you for grading!
+
 ## Introduction
 
 This assignment uses data from
