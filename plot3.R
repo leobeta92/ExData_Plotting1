@@ -1,4 +1,8 @@
 plot3 <- function(x) {
+ 
+  #If user does not have data.table package installed, please use
+  #command install.packages('data.table') to make sure function 
+  #fread is available to use.
   
   library(data.table)
   d_in <- fread('household_power_consumption.txt', sep = ';', na.strings = '?')
